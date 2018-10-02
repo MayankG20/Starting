@@ -1,2 +1,3 @@
 # Starting
-My first repository on Github
+I am pursuing CSE from IIIT-Hyderabad,
+Enjoy learning.
